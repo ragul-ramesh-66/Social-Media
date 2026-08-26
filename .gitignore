@@ -1,0 +1,21 @@
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
+!frontend/.env.example
+
+# Python
+ai-service/.venv/
+ai-service/__pycache__/
+ai-service/.env
+*.pyc
+
+# Go
+backend/bin/
+
+# Environment
+.env
+*.local
+
+# IDE
+.vscode/
